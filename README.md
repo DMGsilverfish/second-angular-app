@@ -1,27 +1,40 @@
-# EssentialsPractice
+# Investment Calculator (Angular 20)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+<p align="center">
+  <a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="100"/>
+  </a>
+</p>
 
-## Development server
+[![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> **A simple yet powerful tool to forecast your investments, built with Angular 20**
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✨ What It Does
+This app helps users estimate the future value of their investments by taking:  
+- **Initial Investment** – Your starting capital  
+- **Annual Investment** – Yearly contribution to your portfolio  
+- **Expected Return %** – Anticipated annual growth rate  
+- **Duration (Years)** – How long you plan to invest  
 
-## Build
+It then calculates:  
+- Total contributed capital  
+- Estimated returns based on compound growth  
+- Projected portfolio value over time  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🏗️ Tech Stack
+- **Angular 20** – Modern framework for building fast SPAs  
+- **TypeScript** – For robust, type-safe calculations   
+- **HTML5 & CSS** – Responsive, mobile-first design  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 🚀 Getting Started
+### Prerequisites
+- **Node.js** (v18 or newer)  
+- **Angular CLI 20**  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
