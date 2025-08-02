@@ -7,6 +7,7 @@
 </p>
 
 [![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 > **A simple yet powerful tool to forecast your investments, built with Angular 20**
 
